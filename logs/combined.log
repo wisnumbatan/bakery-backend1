@@ -1,0 +1,61 @@
+2024-11-09 21:35:49:3549 [31merror[39m: [31mMongoDB connection error: connect ECONNREFUSED 127.0.0.1:27017[39m
+2024-11-09 21:44:29:4429 [32minfo[39m: [32mMongoDB connected successfully[39m
+2024-11-09 21:44:29:4429 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2024-11-09 21:44:29:4429 [32minfo[39m: [32m📚 API Documentation: http://localhost:5000/api/v1/docs[39m
+2024-11-09 21:46:15:4615 [32minfo[39m: [32mMongoDB connected successfully[39m
+2024-11-09 21:46:15:4615 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2024-11-09 21:46:15:4615 [32minfo[39m: [32m📚 API Documentation: http://localhost:5000/api/v1/docs[39m
+2024-11-09 21:50:52:5052 [32minfo[39m: [32m::1 - - [09/Nov/2024:14:50:52 +0000] "GET /api/v1/docs HTTP/1.1" 404 53 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"[39m
+2024-11-09 21:51:07:517 [32minfo[39m: [32m::1 - - [09/Nov/2024:14:51:07 +0000] "GET /api/v1 HTTP/1.1" 404 48 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"[39m
+2024-11-09 21:53:06:536 [32minfo[39m: [32mMongoDB connected successfully[39m
+2024-11-09 21:53:06:536 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2024-11-09 21:53:06:536 [32minfo[39m: [32m📚 API Documentation: http://localhost:5000/api/v1/docs[39m
+2024-11-09 22:02:40:240 [32minfo[39m: [32mMongoDB connected successfully[39m
+2024-11-09 22:02:40:240 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2024-11-09 22:02:40:240 [32minfo[39m: [32m📚 API Documentation: http://localhost:5000/api/v1/docs[39m
+2024-11-09 22:02:45:245 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:02:45 +0000] "GET /api/v1/docs HTTP/1.1" 404 53 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"[39m
+2024-11-09 22:04:11:411 [32minfo[39m: [32mMongoDB connected successfully[39m
+2024-11-09 22:04:11:411 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2024-11-09 22:04:11:411 [32minfo[39m: [32m📚 API Documentation: http://localhost:5000/api/v1/docs[39m
+2024-11-09 22:05:30:530 [32minfo[39m: [32mMongoDB connected successfully[39m
+2024-11-09 22:05:30:530 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2024-11-09 22:05:30:530 [32minfo[39m: [32m📚 API Documentation: http://localhost:5000/api/v1/docs[39m
+2024-11-09 22:05:37:537 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:05:37 +0000] "GET /api/v1/docs HTTP/1.1" 301 161 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"[39m
+2024-11-09 22:05:37:537 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:05:37 +0000] "GET /api/v1/docs/ HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"[39m
+2024-11-09 22:05:37:537 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:05:37 +0000] "GET /api/v1/docs/swagger-ui-init.js HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"[39m
+2024-11-09 22:05:37:537 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:05:37 +0000] "GET /api/v1/docs/swagger-ui.css HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"[39m
+2024-11-09 22:05:37:537 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:05:37 +0000] "GET /api/v1/docs/swagger-ui-standalone-preset.js HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"[39m
+2024-11-09 22:05:37:537 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:05:37 +0000] "GET /api/v1/docs/swagger-ui-bundle.js HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"[39m
+2024-11-09 22:05:38:538 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:05:38 +0000] "GET /api/v1/docs/favicon-32x32.png HTTP/1.1" 200 628 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"[39m
+2024-11-09 22:10:08:108 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:10:08 +0000] "POST /api/v1/auth/register HTTP/1.1" 500 744 "-" "PostmanRuntime/7.42.0"[39m
+2024-11-09 22:13:06:136 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:13:06 +0000] "POST /api/v1/auth/register HTTP/1.1" 400 445 "-" "PostmanRuntime/7.42.0"[39m
+2024-11-09 22:13:40:1340 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:13:40 +0000] "POST /api/v1/auth/register HTTP/1.1" 500 744 "-" "PostmanRuntime/7.42.0"[39m
+2024-11-09 22:14:26:1426 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:14:26 +0000] "POST /api/v1/auth/register HTTP/1.1" 500 744 "-" "PostmanRuntime/7.42.0"[39m
+2024-11-09 22:15:35:1535 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:15:35 +0000] "POST /api/v1/auth/register HTTP/1.1" 400 445 "-" "PostmanRuntime/7.42.0"[39m
+2024-11-09 22:16:12:1612 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:16:12 +0000] "POST /api/v1/auth/register HTTP/1.1" 500 744 "-" "PostmanRuntime/7.42.0"[39m
+2024-11-09 22:17:05:175 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:17:05 +0000] "POST /api/v1/auth/register HTTP/1.1" 500 744 "-" "PostmanRuntime/7.42.0"[39m
+2024-11-09 22:18:52:1852 [32minfo[39m: [32mMongoDB connected successfully[39m
+2024-11-09 22:18:52:1852 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2024-11-09 22:18:52:1852 [32minfo[39m: [32m📚 API Documentation: http://localhost:5000/api/v1/docs[39m
+2024-11-09 22:18:59:1859 [32minfo[39m: [32mMongoDB connected successfully[39m
+2024-11-09 22:18:59:1859 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2024-11-09 22:18:59:1859 [32minfo[39m: [32m📚 API Documentation: http://localhost:5000/api/v1/docs[39m
+2024-11-09 22:19:26:1926 [32minfo[39m: [32mMongoDB connected successfully[39m
+2024-11-09 22:19:26:1926 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2024-11-09 22:19:26:1926 [32minfo[39m: [32m📚 API Documentation: http://localhost:5000/api/v1/docs[39m
+2024-11-09 22:21:10:2110 [32minfo[39m: [32mMongoDB connected successfully[39m
+2024-11-09 22:21:10:2110 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2024-11-09 22:21:10:2110 [32minfo[39m: [32m📚 API Documentation: http://localhost:5000/api/v1/docs[39m
+2024-11-09 22:21:30:2130 [32minfo[39m: [32mMongoDB connected successfully[39m
+2024-11-09 22:21:30:2130 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2024-11-09 22:21:30:2130 [32minfo[39m: [32m📚 API Documentation: http://localhost:5000/api/v1/docs[39m
+2024-11-09 22:21:38:2138 [32minfo[39m: [32mMongoDB connected successfully[39m
+2024-11-09 22:21:38:2138 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2024-11-09 22:21:38:2138 [32minfo[39m: [32m📚 API Documentation: http://localhost:5000/api/v1/docs[39m
+2024-11-09 22:23:46:2346 [32minfo[39m: [32mMongoDB connected successfully[39m
+2024-11-09 22:23:46:2346 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2024-11-09 22:23:46:2346 [32minfo[39m: [32m📚 API Documentation: http://localhost:5000/api/v1/docs[39m
+2024-11-09 22:24:10:2410 [32minfo[39m: [32m::1 - - [09/Nov/2024:15:24:10 +0000] "POST /api/v1/auth/register HTTP/1.1" 500 744 "-" "PostmanRuntime/7.42.0"[39m
+2024-11-09 22:26:27:2627 [32minfo[39m: [32mMongoDB connected successfully[39m
+2024-11-09 22:26:27:2627 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2024-11-09 22:26:27:2627 [32minfo[39m: [32m📚 API Documentation: http://localhost:5000/api/v1/docs[39m
